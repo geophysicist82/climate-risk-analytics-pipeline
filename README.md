@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  1 16:23:53 2026
-
-@author: jenny
-"""
 
 # End-to-End Climate Risk Analytics Pipeline & Predictive Modeling
 
